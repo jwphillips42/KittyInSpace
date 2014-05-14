@@ -8,7 +8,11 @@ The game is about a daring astronaut cat who came out of light speed in the midd
 of a flock of space ships piloted by birds. In order to escape, Kitty needs to fight
 off the Birds long enough for hyperdrive to recharge for a final jump to light speed!
 
-How To Play :
+How To Play
+-----------
+
+There's a Mac application file inside the application.macosx folder, which is the
+easiest way to run the game.
 
 Movement : Arrow Keys
 Weapons : 
